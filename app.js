@@ -1,3 +1,2 @@
-let bn = document.querySelector("button");
+let btn = document.querySelector("button");
 
-let ul = document.querySelector("ul");
